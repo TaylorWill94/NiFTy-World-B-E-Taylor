@@ -1,4 +1,4 @@
-\c nifty_world_dev;
+\c d86sc7rsomviq5;
 
 INSERT INTO categories (name) VALUES
 ('NFT'),

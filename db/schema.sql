@@ -1,6 +1,6 @@
-DROP DATABASE IF EXISTS nifty_world_dev;
-CREATE DATABASE nifty_world_dev;
-\c nifty_world_dev;
+DROP DATABASE IF EXISTS d86sc7rsomviq5;
+CREATE DATABASE d86sc7rsomviq5;
+\c d86sc7rsomviq5;
 
 CREATE TABLE categories (
     id SERIAL PRIMARY KEY,
